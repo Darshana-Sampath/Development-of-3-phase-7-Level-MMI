@@ -8,7 +8,8 @@
  in decentralized power systems with a high share of renewables. The entire system is
  implemented and tested in MATLAB/Simulink, providing an accurate digital twin for
  verifying how the inverter responds to dynamic load conditions and varying power flows.
- 1.3. Objectives
+ 
+ Objectives
  The primary objective of this project was to design and develop a three-phase, 7-level
  Modular Multilevel Inverter (MMI) capable of supporting both grid-forming and grid following modes for a microgrid environment. To fulfil this aim, the following specific
  objectives were defined:
