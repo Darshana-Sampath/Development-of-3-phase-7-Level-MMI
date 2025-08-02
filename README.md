@@ -1,4 +1,5 @@
  Scope of the Project/Aim
+ 
  The primary aim of this project is to design, model, and simulate a 7-level, 3-phase MMI that
  operates in grid-forming mode, acting as a stable voltage and frequency source within a
  microgrid environment. This project explores how a VVPWM strategy can be developed not
@@ -10,6 +11,7 @@
  verifying how the inverter responds to dynamic load conditions and varying power flows.
  
  Objectives
+ 
  The primary objective of this project was to design and develop a three-phase, 7-level
  Modular Multilevel Inverter (MMI) capable of supporting both grid-forming and grid following modes for a microgrid environment. To fulfil this aim, the following specific
  objectives were defined:
